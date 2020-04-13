@@ -50,6 +50,15 @@ Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene075.vs'
 -------------------------------------------------------------------------------
 Backgrounds\Heilige_Klein_3.png
 --------------------------------------------------------------------------------
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Build14.vis'
+-------------------------------------------------------------------------------
+Motiva-Sans-Regular.ttf
+arial.ttf
+Arial Rounded Bold.ttf
+cursor.png
+lupe.png.png
+tmp\game.veb
+--------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene023.vs'
 -------------------------------------------------------------------------------
 Backgrounds\Heilige_Groß_1.png
@@ -383,6 +392,10 @@ Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene015.vs'
 -------------------------------------------------------------------------------
 Backgrounds\FeWa_Altar_3.png
 --------------------------------------------------------------------------------
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene107.vs'
+-------------------------------------------------------------------------------
+hasen.png
+--------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene106.vs'
 -------------------------------------------------------------------------------
 Backgrounds\Museum.png
@@ -465,15 +478,6 @@ Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene092.vs'
 -------------------------------------------------------------------------------
 Backgrounds\Erstes_OG_4.png
 --------------------------------------------------------------------------------
-Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Build12.vis'
--------------------------------------------------------------------------------
-Motiva-Sans-Regular.ttf
-arial.ttf
-Arial Rounded Bold.ttf
-cursor.png
-lupe.png.png
-tmp\game.veb
---------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene082.vs'
 -------------------------------------------------------------------------------
 Backgrounds\Krippen_4.png
@@ -537,7 +541,7 @@ Backgrounds\Zweites_OG_Treppe_5.png
 Containers:
 
 
-Build12.vis 0 
+Build14.vis 0 
 
 Interfaces.vi 0 
 
@@ -748,6 +752,8 @@ Scene104.vs 116 Vitrine_1
 Scene105.vs 117 Text_Wagner_1
 
 Scene106.vs 118 Menu
+
+Scene107.vs 122 Museum_außen
 
 Scene108.vs 124 Museum_außen_Platzhalter
 
