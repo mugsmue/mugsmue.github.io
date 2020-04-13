@@ -1,542 +1,543 @@
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene003.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Römerraum_4_png.webp
+Backgrounds\Römerraum_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene055.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_Treppe_3_png.webp
+Backgrounds\Drittes_OG_Treppe_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene088.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Hinten_4_png.webp
+Backgrounds\Heilige_Hinten_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene010.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_4_png.webp
-tmp\arrow_right_png.webp
+Backgrounds\FeWa_4.png
+arrow_right.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene004.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Halle_1_png.webp
-tmp\Backgrounds\Halle_zum_Römerraum_png.webp
-tmp\Backgrounds\Römerraum_zur_Halle_png.webp
+Backgrounds\Halle_1.png
+Backgrounds\Halle_zum_Römerraum.png
+Backgrounds\Römerraum_zur_Halle.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene012.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_6_png.webp
+Backgrounds\FeWa_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene035.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_1_png.webp
+Backgrounds\Drittes_OG_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene043.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_4_png.webp
+Backgrounds\Schränke_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene114.vs'
 -------------------------------------------------------------------------------
-tmp\Museum Anleitung_png.webp
+Museum Anleitung.png
+button_weiter_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene036.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_2_png.webp
+Backgrounds\Drittes_OG_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene102.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Halle_4_png.webp
+Backgrounds\Halle_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene075.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Klein_3_png.webp
+Backgrounds\Heilige_Klein_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene023.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Groß_1_png.webp
+Backgrounds\Heilige_Groß_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene039.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_1_png.webp
-tmp\arrow_bent_left_png.webp
+Backgrounds\Schränke_1.png
+arrow_bent_left.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene103.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Uhr_1_png.webp
+Backgrounds\Uhr_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene108.vs'
 -------------------------------------------------------------------------------
-tmp\Museum_Platzhalter_png.webp
+Museum_Platzhalter.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene009.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_3_png.webp
-tmp\go_left_inactive_png.webp
+Backgrounds\FeWa_3.png
+go_left_inactive.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene024.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Groß_2_png.webp
+Backgrounds\Heilige_Groß_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene019.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Ahnen_1_png.webp
+Backgrounds\FeWa_Ahnen_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene097.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Treppe_5_png.webp
+Backgrounds\Erstes_OG_Treppe_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene105.vs'
 -------------------------------------------------------------------------------
-tmp\blank_png.webp
+blank.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene101.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Halle_3_png.webp
+Backgrounds\Halle_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene005.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Halle_2_png.webp
-tmp\Backgrounds\Halle_zum_Römerraum_2_png.webp
-tmp\Backgrounds\Halle_zum_Ersten_OG_png.webp
+Backgrounds\Halle_2.png
+Backgrounds\Halle_zum_Römerraum_2.png
+Backgrounds\Halle_zum_Ersten_OG.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene072.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_Text_1_png.webp
-tmp\zurück_png.webp
+Backgrounds\Stricker_Text_1.png
+zurück.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene060.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Treppe_1_png.webp
+Backgrounds\Zweites_OG_Treppe_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene109.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Glückwunsch_png.webp
-tmp\Button_weiter_png.webp
+Backgrounds\Glückwunsch.png
+Button_weiter.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene062.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Treppe_3_png.webp
+Backgrounds\Zweites_OG_Treppe_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene081.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Krippen_3_png.webp
+Backgrounds\Krippen_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene028.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Groß_6_png.webp
+Backgrounds\Heilige_Groß_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene058.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_Treppe_6_png.webp
+Backgrounds\Drittes_OG_Treppe_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene032.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_4_png.webp
+Backgrounds\Stricker_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Interfaces.vi'
 -------------------------------------------------------------------------------
-tmp\Rätsel_inactive_png.webp
-tmp\Rätsel_active_png.webp
-tmp\Osterrallye 2020 Stufe I_png.webp
-tmp\X_png.webp
-tmp\Frage 7 Cover_png.webp
-tmp\Kreuz_png.webp
-tmp\O_png.webp
-tmp\A_png.webp
-tmp\E_png.webp
-tmp\T_png.webp
-tmp\S_png.webp
-tmp\R_png.webp
-tmp\U_png.webp
-tmp\H_png.webp
-tmp\I_png.webp
-tmp\Cover Frage 9_png.webp
-tmp\Osterrallye 2020 Stufe II_png.webp
-tmp\F_png.webp
-tmp\G_png.webp
-tmp\K_png.webp
-tmp\L_png.webp
-tmp\D_png.webp
-tmp\M_png.webp
-tmp\Cover Frage 5_png.webp
-tmp\N_png.webp
-tmp\Osterrallye 2020 Stufe III_png.webp
-tmp\X - Kopie_png.webp
-tmp\Z_png.webp
-tmp\W_png.webp
-tmp\COver Hase Lila_png.webp
-tmp\schwarz_png.webp
+Rätsel_inactive.png
+Rätsel_active.png
+Osterrallye 2020 Stufe I.png
+X.png
+Frage 7 Cover.png
+Kreuz.png
+O.png
+A.png
+E.png
+T.png
+S.png
+R.png
+U.png
+H.png
+I.png
+Cover Frage 9.png
+Osterrallye 2020 Stufe II.png
+F.png
+G.png
+K.png
+L.png
+D.png
+M.png
+Cover Frage 5.png
+N.png
+Osterrallye 2020 Stufe III.png
+X - Kopie.png
+Z.png
+W.png
+COver Hase Lila.png
+schwarz.png
 tmp\Fotos\Wagner_Tafel1_jpg.webp
 tmp\Fotos\Wagner_Tafel2_jpg.webp
 tmp\Fotos\Wagner_Tafel3_jpg.webp
 tmp\Fotos\Wagner_Tafel4_jpg.webp
 tmp\Fotos\Wagner_Tafel5_jpg.webp
-tmp\Backgrounds\Zeugdruck_png.webp
-tmp\Backgrounds\Hallstatt_png.webp
-tmp\Backgrounds\Scherben_1_png.webp
-tmp\Backgrounds\Scherben_2_png.webp
-tmp\Backgrounds\Rapis_png.webp
-tmp\PLate_Text_png.webp
-tmp\Feuerwehr_Tafel_1_png.webp
-tmp\Feuerwehr_Tafel_2_png.webp
-tmp\Feuerwehr_Tafel_3_png.webp
-tmp\Feuerwehr_Tafel_4_png.webp
-tmp\Feuerwehr_Tafel_5_png.webp
-tmp\Feuerwehr_Tafel_6_png.webp
-tmp\Feuerwehr_Tafel_7_png.webp
-tmp\Feuerwehr_Tafel_8_png.webp
-tmp\Webstuhl_png.webp
-tmp\Backgrounds\Mette_2_Vitrine_png.webp
-tmp\Feuerwehr_Urkunden_png.webp
-tmp\Wagner 6_png.webp
-tmp\6_1_png.webp
-tmp\6_2_png.webp
-tmp\6_3_png.webp
+Backgrounds\Zeugdruck.png
+Backgrounds\Hallstatt.png
+Backgrounds\Scherben_1.png
+Backgrounds\Scherben_2.png
+Backgrounds\Rapis.png
+PLate_Text.png
+Feuerwehr_Tafel_1.png
+Feuerwehr_Tafel_2.png
+Feuerwehr_Tafel_3.png
+Feuerwehr_Tafel_4.png
+Feuerwehr_Tafel_5.png
+Feuerwehr_Tafel_6.png
+Feuerwehr_Tafel_7.png
+Feuerwehr_Tafel_8.png
+Webstuhl.png
+Backgrounds\Mette_2_Vitrine.png
+Feuerwehr_Urkunden.png
+Wagner 6.png
+6_1.png
+6_2.png
+6_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene029.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_1_png.webp
+Backgrounds\Stricker_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene044.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_5_png.webp
+Backgrounds\Schränke_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene086.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Hinten_2_png.webp
+Backgrounds\Heilige_Hinten_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene085.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Hinten_1_png.webp
+Backgrounds\Heilige_Hinten_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene052.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Feuerwehr_6_png.webp
+Backgrounds\Feuerwehr_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene112.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_8_png.webp
+Backgrounds\Schränke_8.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene027.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Groß_5_png.webp
+Backgrounds\Heilige_Groß_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene042.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_3_png.webp
+Backgrounds\Schränke_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene020.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Ahnen_2_png.webp
+Backgrounds\FeWa_Ahnen_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene002.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Römerraum_3_png.webp
-tmp\arrow_forward_png.webp
+Backgrounds\Römerraum_3.png
+arrow_forward.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene011.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_5_png.webp
+Backgrounds\FeWa_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene018.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Altar_6_png.webp
+Backgrounds\FeWa_Altar_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene041.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Landing_1_png.webp
-tmp\arrow_right_down_png.webp
+Backgrounds\Zweites_OG_Landing_1.png
+arrow_right_down.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene025.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Groß_3_png.webp
+Backgrounds\Heilige_Groß_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene095.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Treppe_3_png.webp
+Backgrounds\Erstes_OG_Treppe_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene026.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Groß_4_png.webp
+Backgrounds\Heilige_Groß_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene098.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Treppe_6_png.webp
+Backgrounds\Erstes_OG_Treppe_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene059.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Landing_2_png.webp
+Backgrounds\Zweites_OG_Landing_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene047.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Feuerwehr_1_png.webp
+Backgrounds\Feuerwehr_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene104.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Vitrine_1_png.webp
-tmp\arrow_back_png.webp
+Backgrounds\Vitrine_1.png
+arrow_back.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene038.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_4_png.webp
+Backgrounds\Drittes_OG_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene014.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Altar_2_png.webp
+Backgrounds\FeWa_Altar_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene073.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Klein_1_png.webp
-tmp\Fragezeichen_inactive_png.webp
+Backgrounds\Heilige_Klein_1.png
+Fragezeichen_inactive.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene069.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_2_png.webp
+Backgrounds\Zweites_OG_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene001.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Römerraum_2_png.webp
+Backgrounds\Römerraum_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene040.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_2_png.webp
-tmp\arrow_bent_right_png.webp
+Backgrounds\Schränke_2.png
+arrow_bent_right.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene034.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_6_png.webp
+Backgrounds\Stricker_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene079.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Krippen_1_png.webp
+Backgrounds\Krippen_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene077.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Klein_5_png.webp
+Backgrounds\Heilige_Klein_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene056.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_Treppe_4_png.webp
-tmp\arrow_left_up_png.webp
+Backgrounds\Drittes_OG_Treppe_4.png
+arrow_left_up.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene074.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Klein_2_png.webp
+Backgrounds\Heilige_Klein_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene051.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Feuerwehr_5_png.webp
+Backgrounds\Feuerwehr_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene008.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_2_png.webp
-tmp\go_right_inactive_png.webp
+Backgrounds\FeWa_2.png
+go_right_inactive.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene045.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_6_png.webp
+Backgrounds\Schränke_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene049.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Feuerwehr_3_png.webp
+Backgrounds\Feuerwehr_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene067.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Landing_2_png.webp
+Backgrounds\Erstes_OG_Landing_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene048.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Feuerwehr_2_png.webp
+Backgrounds\Feuerwehr_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene071.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_4_png.webp
+Backgrounds\Zweites_OG_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene033.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_5_png.webp
+Backgrounds\Stricker_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene030.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_2_png.webp
+Backgrounds\Stricker_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene054.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_Treppe_2_png.webp
+Backgrounds\Drittes_OG_Treppe_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene063.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Treppe_4_png.webp
+Backgrounds\Zweites_OG_Treppe_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene065.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Treppe_6_png.webp
+Backgrounds\Zweites_OG_Treppe_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene083.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Krippen_5_png.webp
+Backgrounds\Krippen_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene076.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Klein_4_png.webp
+Backgrounds\Heilige_Klein_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene015.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Altar_3_png.webp
+Backgrounds\FeWa_Altar_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene106.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Museum_png.webp
-tmp\Button_Einfach_png.webp
-tmp\Button_Mittel_png.webp
-tmp\Button_Schwierig_png.webp
+Backgrounds\Museum.png
+Button_Einfach.png
+Button_Mittel.png
+Button_Schwierig.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene093.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Treppe_1_png.webp
+Backgrounds\Erstes_OG_Treppe_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene031.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_3_png.webp
+Backgrounds\Stricker_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene096.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Treppe_4_png.webp
+Backgrounds\Erstes_OG_Treppe_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene090.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_2_png.webp
+Backgrounds\Erstes_OG_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene013.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Altar_1_png.webp
+Backgrounds\FeWa_Altar_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene017.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Altar_5_png.webp
+Backgrounds\FeWa_Altar_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene066.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Landing_1_png.webp
+Backgrounds\Erstes_OG_Landing_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene094.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_Treppe_2_png.webp
+Backgrounds\Erstes_OG_Treppe_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene057.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_Treppe_5_png.webp
+Backgrounds\Drittes_OG_Treppe_5.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene070.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_3_png.webp
+Backgrounds\Zweites_OG_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene113.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Stricker_7_png.webp
+Backgrounds\Stricker_7.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene084.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Krippen_6_png.webp
+Backgrounds\Krippen_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene053.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_Treppe_1_png.webp
+Backgrounds\Drittes_OG_Treppe_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene007.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_1_png.webp
-tmp\arrow_left_png.webp
-tmp\arrow_backwards_png.webp
+Backgrounds\FeWa_1.png
+arrow_left.png
+arrow_backwards.png
 --------------------------------------------------------------------------------
-Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Build11.vis'
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene087.vs'
+-------------------------------------------------------------------------------
+Backgrounds\Heilige_Hinten_3.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene022.vs'
+-------------------------------------------------------------------------------
+Backgrounds\FeWa_Ahnen_4.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene050.vs'
+-------------------------------------------------------------------------------
+Backgrounds\Feuerwehr_4.png
+Hase_Lila.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene092.vs'
+-------------------------------------------------------------------------------
+Backgrounds\Erstes_OG_4.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Build12.vis'
 -------------------------------------------------------------------------------
 Motiva-Sans-Regular.ttf
 arial.ttf
 Arial Rounded Bold.ttf
-tmp\cursor_png.webp
-tmp\lupe.png_png.webp
+cursor.png
+lupe.png.png
 tmp\game.veb
---------------------------------------------------------------------------------
-Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene087.vs'
--------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Hinten_3_png.webp
---------------------------------------------------------------------------------
-Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene022.vs'
--------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Ahnen_4_png.webp
---------------------------------------------------------------------------------
-Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene050.vs'
--------------------------------------------------------------------------------
-tmp\Backgrounds\Feuerwehr_4_png.webp
-tmp\Hase_Lila_png.webp
---------------------------------------------------------------------------------
-Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene092.vs'
--------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_4_png.webp
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene082.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Krippen_4_png.webp
+Backgrounds\Krippen_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene037.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Drittes_OG_3_png.webp
-tmp\arrow_right_up_png.webp
-tmp\Hase_Gelb_png.webp
+Backgrounds\Drittes_OG_3.png
+arrow_right_up.png
+Hase_Gelb.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene091.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_3_png.webp
+Backgrounds\Erstes_OG_3.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene046.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Schränke_7_png.webp
+Backgrounds\Schränke_7.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene078.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Heilige_Klein_6_png.webp
+Backgrounds\Heilige_Klein_6.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene016.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Altar_4_png.webp
+Backgrounds\FeWa_Altar_4.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene061.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Treppe_2_png.webp
+Backgrounds\Zweites_OG_Treppe_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene006.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Erstes_OG_1_png.webp
-tmp\Backgrounds\Erstes_OG_zur_Halle_png.webp
-tmp\Backgrounds\Erstes_OG_zur_FeWa_png.webp
+Backgrounds\Erstes_OG_1.png
+Backgrounds\Erstes_OG_zur_Halle.png
+Backgrounds\Erstes_OG_zur_FeWa.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene080.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Krippen_2_png.webp
+Backgrounds\Krippen_2.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene000.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Römerraum_1_png.webp
-tmp\turn_right_inactive_png.webp
-tmp\turn_left_inactive_png.webp
+Backgrounds\Römerraum_1.png
+turn_right_inactive.png
+turn_left_inactive.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene021.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\FeWa_Ahnen_3_png.webp
-tmp\Hase_Grün_png.webp
+Backgrounds\FeWa_Ahnen_3.png
+Hase_Grün.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene068.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_1_png.webp
+Backgrounds\Zweites_OG_1.png
 --------------------------------------------------------------------------------
 Container 'C:\Users\Markus\Documents\GitHub\mugsmue.github.io\Scene064.vs'
 -------------------------------------------------------------------------------
-tmp\Backgrounds\Zweites_OG_Treppe_5_png.webp
+Backgrounds\Zweites_OG_Treppe_5.png
 --------------------------------------------------------------------------------
 
 Containers:
 
 
-Build11.vis 0 
+Build12.vis 0 
 
 Interfaces.vi 0 
 
